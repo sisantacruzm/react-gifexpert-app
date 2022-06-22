@@ -18,7 +18,7 @@ Los pasos para la instalación son los siguientes:
 - Clone el respositorio
   - git clone https://github.com/sisantacruzm/react-gifexpert-app.git `suCarpeta`
 - Ingrese en la carpeta donde fue clonado el repositorio
-- Ejecute el comando `npm run dev`
+- Ejecute el comando `npm run dev` para probar el desarrollo en su ambiente local.
 
 Es necesario tener como minimo instalado en su computadora:
 
